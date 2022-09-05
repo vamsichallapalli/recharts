@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+.cowin-container{
+background-color: #161625;
+
+min-height: 100vh;
+display: flex;
+flex-direction: column;
+padding: 60px;
+
+}
+.cowin-header{
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.plus-icon{
+    color:white;
+    font-size: 70px;   
+}
+.cowin-heading{
+    color:#2cc6c6;
+    font-size:40px
+}
